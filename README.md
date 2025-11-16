@@ -1,2 +1,2 @@
 # Le_Dukes_bar
-Proyecto SQL
+Este modelo de negocios se centra en un sistema de gestión integral para un bar que ofrece servicio en el local, reservas para eventos (cumpleaños) y delivery (propio y por terceros como PedidosYa).
