@@ -8,7 +8,7 @@ El modelo de datos y la creación de las tablas se estructuraron en 3 grupos fun
 * Inventario y Menú: imagen 10 a 14
 * Gestión de Negocio y Finanzas: imagen 15 a 19
 
-Aquí adjunto el link en donde se encuentran las tablas: [Le Dukes bar - Bonino](https://drive.google.com/drive/folders/1Ib1sFbvP0P76Iod3waNxBesoVib_EONU?usp=drive_link)
+Aquí adjunto el link en donde se encuentran las tablas y el informe de negocio: [Le Dukes bar - Bonino](https://drive.google.com/drive/folders/1Ib1sFbvP0P76Iod3waNxBesoVib_EONU?usp=drive_link)
 
 
 ## Vistas:
